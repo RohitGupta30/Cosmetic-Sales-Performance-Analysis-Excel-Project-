@@ -1,5 +1,9 @@
 💄 Cosmetic Sales Performance Dashboard (Excel Project)
+
+
  ![Cosmetic Sales Dashboard](Dashboard.png)
+
+
 
 📌 Project Overview :-
 
