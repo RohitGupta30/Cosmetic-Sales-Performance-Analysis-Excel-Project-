@@ -61,3 +61,7 @@ Blush and Eyeshadow show high unit sales but lower revenue — volume-driven, ma
 The analysis highlights strong global revenue generation across premium brand segments and diverse sales channels. However, it also reveals clear opportunities — addressing the Q1 seasonal dip, boosting underperforming brands like Maybelline, strengthening the France market, and leveraging the growing Mail and Online channels.
 
 By focusing on upselling, cross-selling, occasion-based promotions, and targeted geographic campaigns, the business can significantly enhance its overall profitability and market reach.
+
+ 🖼️ Dashboard Preview :-
+
+ ![Cosmetic Sales Dashboard](Dashboard.png)
