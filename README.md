@@ -1,4 +1,5 @@
 💄 Cosmetic Sales Performance Dashboard (Excel Project)
+ ![Cosmetic Sales Dashboard](Dashboard.png)
 
 📌 Project Overview :-
 
@@ -62,6 +63,3 @@ The analysis highlights strong global revenue generation across premium brand se
 
 By focusing on upselling, cross-selling, occasion-based promotions, and targeted geographic campaigns, the business can significantly enhance its overall profitability and market reach.
 
- 🖼️ Dashboard Preview :-
-
- ![Cosmetic Sales Dashboard](Dashboard.png)
